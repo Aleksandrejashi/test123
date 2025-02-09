@@ -21,12 +21,12 @@ gap:50px;
     font-size: 2rem;
 } */
 
-p{
-    font-size: 16px;
-    color: black;
+p {
+  font-size: 16px;
+  color: black;
 }
-@media(max-width:600px){
-    p{
-        color: blue;
-    }
+@media (max-width: 600px) {
+  p {
+    color: blue;
+  }
 }

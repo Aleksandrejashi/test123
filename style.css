@@ -1,0 +1,32 @@
+/* .grid-container{
+    display: grid;
+    grid-template-columns: 200px 200px;
+grid-template-rows: 100px 100px;
+gap:50px;
+} */
+
+/* .grid-container{
+    background-color: blue;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-template-rows: 100px 100px;
+    gap:10px;
+} */
+/* body{
+    width: 100vw;
+    height: 70vh;
+    background-color: aqua;
+    font-size: 2rem;
+} */
+
+p{
+    font-size: 16px;
+    color: black;
+}
+@media(max-width:600px){
+    p{
+        color: blue;
+    }
+}
